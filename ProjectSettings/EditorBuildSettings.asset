@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyGame/Demo/Register.unity
+    guid: a28b131bc93c54a42afbe4b7e9a9c340
+  - enabled: 1
+    path: Assets/MyGame/Demo/MainMenu.unity
+    guid: ae3a469ea2ec9994da49e88b124d9adb
+  - enabled: 1
+    path: Assets/MyGame/Demo/FirstLevel.unity
+    guid: 6db738ad371f9e049ba8e053bea0a95b
+  - enabled: 1
+    path: Assets/MyGame/Demo/LevelChoose.unity
+    guid: 64bce286613db63429cd154db08a903f
+  - enabled: 1
+    path: Assets/MyGame/Demo/SecondLevel.unity
+    guid: b24f241ed09417347930d4626e21425e
+  - enabled: 1
+    path: Assets/MyGame/Demo/ThirdLevel.unity
+    guid: 278aa0944ef692542a7f8908ff4c6e0b
+  - enabled: 1
+    path: Assets/MyGame/Demo/Boss.unity
+    guid: acd6cdc822e5fe94e849c97dc78b3f57
+  m_configObjects: {}
